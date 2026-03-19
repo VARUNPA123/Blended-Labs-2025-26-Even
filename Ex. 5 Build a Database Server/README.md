@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: VARUN KUMAR P A
+* **Register Number**: 212223060294
+* **Date of Submission**: 18-03-2026
 
 ---
 
@@ -96,21 +96,15 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
-
----
+<img width="1914" height="797" alt="image" src="https://github.com/user-attachments/assets/76aeb85a-1f21-4475-aa19-b3afa4f12a01" />
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
-
----
+<img width="1899" height="863" alt="image" src="https://github.com/user-attachments/assets/c028c487-c0e6-41ef-905c-3b35a6d02a52" />
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
-
----
+<img width="1195" height="630" alt="image" src="https://github.com/user-attachments/assets/7f00921e-e6a5-464c-8f31-a428d44a0992" />
 
 ## Result
 
