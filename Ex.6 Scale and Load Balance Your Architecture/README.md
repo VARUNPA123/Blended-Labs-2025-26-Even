@@ -6,6 +6,8 @@
 * **Register Number**: 212223060294
 * **Date of Submission**: 20-03-2026
 
+---
+
 ## Title
 
 Scale and Load Balance Your Architecture
