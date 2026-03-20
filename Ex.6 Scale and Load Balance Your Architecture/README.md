@@ -1,9 +1,14 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
+## Author
+
+* **Name**: VARUN KUMAR P A
+* **Register Number**: 212223060294
+* **Date of Submission**: 20-03-2026
+
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
 
 ---
 
@@ -71,7 +76,13 @@ Describe step-by-step how you performed this experiment in your own words.
 ---
 
 ## Output Screenshots 
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/e1118e31-538d-4661-9c16-dc4b94425d04" />
 
+<img width="1917" height="1199" alt="image" src="https://github.com/user-attachments/assets/c827b697-3428-4cd4-9844-9f93d126cf89" />
+
+<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/83f8829b-7658-4dc7-932d-407eeabbcca5" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/471149d8-5dc4-443a-a7e4-47cd0c1eef42" />
 
 ---
 
